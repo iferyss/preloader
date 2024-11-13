@@ -1,0 +1,19 @@
+{
+    "developeMode": false,
+
+    "elements": {
+        "logoSrc": "img/dvd-vec-crop.svg", 
+        "bgSrc": "img/bg.jpg",
+        "widthDvd": 250
+    },
+    "moving": {
+        "counter": 1,
+        "speed": 1,
+        "blendTime": 0.5,
+        "drunk": 0
+    },
+    "gradientSettings": {
+        "gradientColors": ["blue", "black", "green"],
+        "gradientRange": "top"
+    }
+}
